@@ -1,0 +1,87 @@
+
+                **************Concerts************
+                * Name of the venue :  Chantry Park
+                * Venue location :  United Kingdom      Ipswich
+                * Date of the Event :  08/26/2019
+                ===============Songs==============
+                * Artist :  Adele
+                * The song's name :  {data.name}
+                * A preview link of the song from Spotify :  https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=034bf10f389c400bbaa1cf268a26ed25
+                * The album that the song is from : 25
+                
+                ===============Songs==============
+                * Artist :  Adele
+                * The song's name :  {data.name}
+                * A preview link of the song from Spotify :  https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=034bf10f389c400bbaa1cf268a26ed25
+                * The album that the song is from : 25
+                
+                ===============Songs==============
+                * Artist :  Adele
+                * The song's name :  {data.name}
+                * A preview link of the song from Spotify :  https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=034bf10f389c400bbaa1cf268a26ed25
+                * The album that the song is from : 25
+                
+                ===============Songs==============
+                * Artist :  Adele
+                * The song's name :  {data.name}
+                * A preview link of the song from Spotify :  https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=034bf10f389c400bbaa1cf268a26ed25
+                * The album that the song is from : 25
+                
+                ===============Songs==============
+                * Artist :  Fall Out Boy
+                * The song's name :  {data.name}
+                * A preview link of the song from Spotify :  null
+                * The album that the song is from : From Under The Cork Tree
+                
+                ===============Songs==============
+                * Artist :  Fall Out Boy
+                * The song's name :  {data.name}
+                * A preview link of the song from Spotify :  null
+                * The album that the song is from : From Under The Cork Tree
+                
+                ===============Songs==============
+                * Artist :  Harry Styles
+                * The song's name :  {data.name}
+                * A preview link of the song from Spotify :  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=034bf10f389c400bbaa1cf268a26ed25
+                * The album that the song is from : Harry Styles
+                
+                ===============Songs==============
+                * Artist :  Harry Styles
+                * The song's name :  {data.name}
+                * A preview link of the song from Spotify :  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=034bf10f389c400bbaa1cf268a26ed25
+                * The album that the song is from : Harry Styles
+                
+                ===============Songs==============
+                * Artist :  Harry Styles
+                * The song's name :  {data.name}
+                * A preview link of the song from Spotify :  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=034bf10f389c400bbaa1cf268a26ed25
+                * The album that the song is from : Harry Styles
+                
+                ===============Songs==============
+                * Artist :  Harry Styles
+                * The song's name :  {data.name}
+                * A preview link of the song from Spotify :  https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=034bf10f389c400bbaa1cf268a26ed25
+                * The album that the song is from : Harry Styles
+                
+                ===============Movies==============
+                * The tiltle of the Movie :  The Lion King
+                * The Released Year :  1994
+                * The Discription :  A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+                * IMDB Rating of the Movie :  8.5
+                * Rotten Tomatoes Rating of the moive :  93%
+                * Country where the movie was produced :  USA
+                * Language of the movie :  English, Swahili, Xhosa, Zulu
+                * Actors in the movie :  $
+                * {data.Actors}
+                
+                ===============Movies==============
+                * The tiltle of the Movie :  Mr. Nobody
+                * The Released Year :  2009
+                * The Discription :  A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+                * IMDB Rating of the Movie :  7.8
+                * Rotten Tomatoes Rating of the moive :  67%
+                * Country where the movie was produced :  Belgium, Germany, Canada, France, USA, UK
+                * Language of the movie :  English, Mohawk
+                * Actors in the movie :  $
+                * {data.Actors}
+                
